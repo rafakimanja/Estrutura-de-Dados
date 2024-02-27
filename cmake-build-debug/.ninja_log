@@ -1,0 +1,22 @@
+# ninja log v5
+4	69	7306786728558213	CMakeFiles/Estrutura_de_Dados.dir/Pilhas/Exercicios/exe1.c.obj	b72712718d34da3d
+0	74	7306786728667916	CMakeFiles/Estrutura_de_Dados.dir/Pilhas/Exercicios/pilha.c.obj	d53791c3b146cd00
+75	198	7306786729881460	Estrutura_de_Dados.exe	e24f483abd776279
+6	59	7306790275868284	CMakeFiles/Estrutura_de_Dados.dir/Pilhas/Exercicios/exe1.c.obj	b72712718d34da3d
+2	78	7306790276055985	CMakeFiles/Estrutura_de_Dados.dir/Pilhas/Exercicios/pilha.c.obj	d53791c3b146cd00
+79	173	7306790276973527	Estrutura_de_Dados.exe	e24f483abd776279
+6	57	7306790502730603	CMakeFiles/Estrutura_de_Dados.dir/Pilhas/Exercicios/exe1.c.obj	b72712718d34da3d
+1	76	7306790502930345	CMakeFiles/Estrutura_de_Dados.dir/Pilhas/Exercicios/pilha.c.obj	d53791c3b146cd00
+77	156	7306790503698011	Estrutura_de_Dados.exe	e24f483abd776279
+5	56	7306790591860595	CMakeFiles/Estrutura_de_Dados.dir/Pilhas/Exercicios/exe1.c.obj	b72712718d34da3d
+1	76	7306790592060058	CMakeFiles/Estrutura_de_Dados.dir/Pilhas/Exercicios/pilha.c.obj	d53791c3b146cd00
+76	155	7306790592827414	Estrutura_de_Dados.exe	e24f483abd776279
+6	73	7306791876628178	CMakeFiles/Estrutura_de_Dados.dir/Pilhas/Exercicios/exe1.c.obj	b72712718d34da3d
+2	86	7306791876777774	CMakeFiles/Estrutura_de_Dados.dir/Pilhas/Exercicios/pilha.c.obj	d53791c3b146cd00
+86	171	7306791877590851	Estrutura_de_Dados.exe	e24f483abd776279
+5	66	7306792056968973	CMakeFiles/Estrutura_de_Dados.dir/Pilhas/Exercicios/exe1.c.obj	b72712718d34da3d
+2	73	7306792057038778	CMakeFiles/Estrutura_de_Dados.dir/Pilhas/Exercicios/pilha.c.obj	d53791c3b146cd00
+73	153	7306792057811792	Estrutura_de_Dados.exe	e24f483abd776279
+6	73	7306792128012337	CMakeFiles/Estrutura_de_Dados.dir/Pilhas/Exercicios/exe1.c.obj	b72712718d34da3d
+2	82	7306792128102091	CMakeFiles/Estrutura_de_Dados.dir/Pilhas/Exercicios/pilha.c.obj	d53791c3b146cd00
+82	161	7306792128860056	Estrutura_de_Dados.exe	e24f483abd776279
